@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    display: flex;
+    justify-content: center;
+    height: 15%;
+}
+
+#logo{
+    height: 100%;
+}
+
+#main{
+    display: flex;
+    height: 85%;
+}
+
+#mainHeading{
+    text-align: center;
+}
+
+#rightMain{
+    margin: 5%;
+}
+
+#estimateButton{
+    text-align: center;
+}
